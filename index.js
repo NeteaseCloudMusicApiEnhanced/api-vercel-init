@@ -1,1 +1,1 @@
-require("@neteaseapireborn/api/app");
+require("@neteasecloudmusicapienhanced/api/app");
